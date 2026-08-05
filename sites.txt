@@ -1,3 +1,4 @@
 google.com
 apple.com
 microsoft.com
+yandex.ru
