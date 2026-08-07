@@ -3,3 +3,4 @@ apple.com
 microsoft.com
 yandex.ru
 mail.ru
+gmail.com
