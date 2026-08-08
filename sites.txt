@@ -4,3 +4,4 @@ microsoft.com
 yandex.ru
 mail.ru
 gmail.com
+kpo.kz
