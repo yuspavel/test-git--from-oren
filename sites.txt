@@ -5,3 +5,4 @@ yandex.ru
 mail.ru
 gmail.com
 kpo.kz
+habr.com
